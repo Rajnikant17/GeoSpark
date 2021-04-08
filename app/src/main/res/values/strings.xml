@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocationUpdateApp</string>
+    <string name="permission_string">Plese allow the permission, and restart the App</string>
+    <string name="permission_granted">Permission granted</string>
+    <string name="no_of_times_data_updated">No of times data updated today</string>
+    <string name="last_updated_time">Last updated time</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+</resources>
